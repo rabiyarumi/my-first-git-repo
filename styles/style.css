@@ -9,5 +9,6 @@ p{
 }
 div{
     background-color: rgb(75, 61, 43);
-   
+    margin: 10px;
+    box-shadow: 10px 10px 20px rgb(75, 61, 43);
 }
